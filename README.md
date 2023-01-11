@@ -1,12 +1,12 @@
 # GettingCleaningDataFinalProject
 
 
-##Files included:
+## Files included:
 1. run_analysis.R           Contains the script that performs all the tidying of the data according to the directions for the project as listed below.
 2. ProjectSubmission.txt    Data for part 5 of the assignment.
 3. CodeBook.txt             CodeBook for this project.
 
-###Project Directions:
+## Project Directions:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
